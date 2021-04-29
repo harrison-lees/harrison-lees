@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @harrison-lees
+- 👀 I’m interested in Terahertz Engineering
+- 🌱 I’m currently learning python
+- 📫 How to reach me harrison.lees@adelaide.edu.au
